@@ -36,6 +36,19 @@ API REST construída em Java com Spring Boot que consome filmes populares da API
 
 ---
 
+## Conceitos de POO utilizados:
+
+- Encapsulamento: Os atributos da classe Filme são private, e o acesso é feito via getters e setters (gerados pelo Lombok).
+
+- Abstração: A interface FilmeRepository abstrai a lógica de acesso ao banco. Quem usa não precisa saber como funciona internamente.
+
+- Polimorfismo: O método save() do JpaRepository aceita qualquer entidade.
+
+
+
+
+---
+
 ##  Como Rodar o Projeto
 
 ### Pré-requisitos
