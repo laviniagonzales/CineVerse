@@ -1,0 +1,11 @@
+Divisão de Tarefas do grupo:
+
+Lavinia Gonzales 077955 - Configuração inicial do projeto com Spring Boot e Maven; Criação da estrutura de pacotes e classes iniciais; Desenvolvimento do FilmeController com os endpoints da API;
+Organização e escrita das documentações; Conexão com o Github; Configuração MySQL.
+
+Samuel Fonseca 179017 - Implementação do consumo da API TMDB no TmdbService; Criação da classe FilmeDto para representar os dados externos; Mapeamento dos dados do TMDB para a entidade interna Filme; 
+Integração da documentação Swagger usando Springdoc OpenAPI; Testes manuais e verificação dos endpoints no Swagger UI.
+
+Nicolas Mendes 185674 -  Configuração do banco de dados H2 e testes de persistência; Criação da entidade Filme e do FilmeRepository com JPA.
+
+Gabriel Soares 077905 -  Especificação dos endpoints com @Operation e @ApiResponse; Desenvolvimento e aplicação de validações com Spring Validation.
