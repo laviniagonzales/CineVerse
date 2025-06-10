@@ -1,18 +1,18 @@
-# 🎬 Cineverse API
+# Cineverse API
 
 API REST construída em Java com Spring Boot que consome filmes populares da API TMDB e os armazena em um banco de dados local.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-✅ Buscar filmes populares da TMDB  
-✅ Salvar filmes no banco de dados local  
-✅ Expor endpoints REST com documentação via Swagger  
+-   Buscar filmes populares da TMDB  
+-   Salvar filmes no banco de dados local  
+-   Expor endpoints REST com documentação via Swagger  
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 17 - Linguagem
   
@@ -36,14 +36,14 @@ API REST construída em Java com Spring Boot que consome filmes populares da API
 
 ---
 
-## ▶️ Como Rodar o Projeto
+##  Como Rodar o Projeto
 
-### 📌 Pré-requisitos
+### Pré-requisitos
 
 - Java 17 ou superior
 - Maven 3.8+
 
-### 📦 Clonar e rodar
+### Clonar e rodar
 
 ```bash
 git clone https://github.com/seu-usuario/cineverse-api.git
